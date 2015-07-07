@@ -20,6 +20,10 @@ public class JavaApplication1 {
         System.out.println("asd");
         System.out.println("valtozas");
         System.out.println("megegy");
+        
+        for (int i = 0; i < 10; i++) {
+            if (true) System.out.println("(Y)");
+        } 
     }
     
 }
