@@ -24,7 +24,7 @@ public class JavaApplication1 {
         for (int i = 0; i < 10; i++) {
             if (true) System.out.println("(Y)");
         } 
-        System.out.println("Egyre jobb ez a program");
+        
     }
     
 }
