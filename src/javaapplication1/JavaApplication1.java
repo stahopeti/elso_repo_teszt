@@ -24,9 +24,13 @@ public class JavaApplication1 {
         for (int i = 0; i < 10; i++) {
             if (true) System.out.println("(Y)");
         } 
-        System.out.println("master brencs");
+<<<<<<< HEAD
+        System.out.println("master brencs merge utan");
         System.out.println("hopp egy helyesirasi hiba"); // kijavítottam de amúgy  
                                                          // az ékezetek még hiányoznak
+=======
+        System.out.println("master brencs merge utan");
+>>>>>>> teszt_brencs
     }
     
 }
