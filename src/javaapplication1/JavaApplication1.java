@@ -25,7 +25,8 @@ public class JavaApplication1 {
             if (true) System.out.println("(Y)");
         } 
         System.out.println("master brencs");
-        System.out.println("hopp egy hejesirasi hiba");
+        System.out.println("hopp egy helyesirasi hiba"); // kijavítottam de amúgy  
+                                                         // az ékezetek még hiányoznak
     }
     
 }
